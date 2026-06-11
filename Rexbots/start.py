@@ -182,14 +182,14 @@ class script(object):
     )
 
     ABOUT_TXT = (
-        f"<blockquote>{E_INFO} <b>About This Bot</b>\n\n"
-        f"<b>╭────[ {E_SPARK} 𝐀𝐍𝐔𝐉 ]────⍟</b>\n"
-        f"<b>├⍟ {E_ROCKET} Bot Name : <a href=http://t.me/save_restricted_content_ak_bot>Save Content</a></b>\n"
-        f"<b>├⍟ {E_DEV} Developer : <a href=https://t.me/anujedits76>𝐀𝐍𝐔𝐉 𝐊𝐔𝐌𝐀𝐑</a></b>\n"
-        f"<b>├⍟ {E_LINK} Library : <a href='https://docs.pyrogram.org/'>Pyrogram Async</a></b>\n"
-        f"<b>├⍟ {E_BOLT} Language : <a href='https://www.python.org/'>Python 3.11+</a></b>\n"
-        f"<b>├⍟ {E_GEAR} Database : <a href='https://www.mongodb.com/'>MongoDB Atlas Cluster</a></b>\n"
-        f"<b>├⍟ {E_STAR} Hosting : Dedicated High-Speed VPS</b>\n"
+        f"<blockquote>{E_INFO} <b>💠 ᴀʙᴏᴜᴛ ᴛʜɪs ʙᴏᴛ 💠</b>\n\n"
+        f"<b>╭────[ {E_SPARK} 😈 ᴀɴᴜᴊ 😈 ]────⍟</b>\n"
+        f"<b>├⍟ {E_ROCKET} ⚡ ʙᴏᴛ ɴᴀᴍᴇ ⚡ : <a href=http://t.me/save_restricted_content_ak_bot>🔥 Save Content Bot 🔥</a></b>\n"
+        f"<b>├⍟ {E_DEV} 👑 ᴅᴇᴠᴇʟᴏᴘᴇʀ 👑 : <a href=https://t.me/anujedits76>👑 ᴀɴᴜᴊ ᴋᴜᴍᴀʀ 👑</a></b>\n"
+        f"<b>├⍟ {E_LINK} 🥀 ʟɪʙʀᴀʀʏ 🥀 : <a href='https://docs.pyrogram.org/'>⚡ Pyrogram Async ⚡</a></b>\n"
+        f"<b>├⍟ {E_BOLT} ✦ ʟᴀɴɢᴜᴀɢᴇ ✦ : <a href='https://www.python.org/'>🔥 Python 3.11+ 🔥</a></b>\n"
+        f"<b>├⍟ {E_GEAR} 💎 ᴅᴀᴛᴀʙᴀsᴇ 💎 : <a href='https://www.mongodb.com/'>💾 MongoDB 💾</a></b>\n"
+        f"<b>├⍟ {E_STAR} 🚀 ʜᴏsᴛɪɴɢ 🚀 : 🚀 Dedicated High-Speed VPS 🚀</b>\n"
         f"<b>╰───────────────⍟</b></blockquote>\n"
     )
 
