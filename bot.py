@@ -131,6 +131,7 @@ class Bot(Client):
             BotCommand("cancel",       "Cancel current action"),
             BotCommand("myplan",       "Check your plan"),
             BotCommand("premium",      "Premium info"),
+            BotCommand("broadcast",    "Broadcast message (admin only)"),
             BotCommand("setchat",      "Set target chat"),
             BotCommand("set_thumb",    "Set thumbnail"),
             BotCommand("view_thumb",   "View thumbnail"),
