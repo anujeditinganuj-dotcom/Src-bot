@@ -99,7 +99,7 @@ class Bot(Client):
             f"{E_STAR} <b>Bot:</b> @{me.username}\n"
             f"{E_USERS} <b>Users:</b> <code>{user_count} / 200</code>\n"
             f"{E_CLOCK} <b>Time:</b> <code>{now.strftime('%I:%M %p')} IST</code>\n\n"
-            f"{E_CROWN} <b>Developed by @anujbyedit</b></blockquote>"
+            f"{E_CROWN} <b>Developed by @anujedits76</b></blockquote>"
         )
 
         try:
